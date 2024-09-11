@@ -1,0 +1,14 @@
+{
+  "name": "my-clean-architecture-app",
+  "version": "1.0.0",
+  "description": "my-clean-architecture-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apisithasang"
+  ],
+  "author": "apisithasang",
+  "license": "MIT"
+}
